@@ -48,6 +48,8 @@ declare module './index' {
 
     type IMAGE_MODE = CORNER | CORNERS | CENTER;
 
+    type MOUSE_BUTTON = LEFT | RIGHT | CENTER;
+
     type RECT_MODE = CORNER | CORNERS | CENTER | RADIUS;
 
     type RENDERER = P2D | WEBGL;
