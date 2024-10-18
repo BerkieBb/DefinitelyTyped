@@ -242,7 +242,7 @@ declare module '../../index' {
          *   pressed last. Warning: different browsers may
          *   track mouseButton differently.
          */
-        mouseButton: UNKNOWN_P5_CONSTANT;
+        mouseButton: MOUSE_BUTTON;
 
         /**
          *   The boolean system variable mouseIsPressed is true
